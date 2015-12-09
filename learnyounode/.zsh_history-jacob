@@ -1,0 +1,254 @@
+git
+source .bashrc
+ls -alh
+emacs -nw .zshrc
+install emacs
+which install
+e .zshrc
+mkdir deva
+mkdir dev
+mv node-js-sample dev/
+sudo-apt get update node
+sudo apt-get update node
+sudo apt-get install npm
+sudo apt-get install node
+htop
+k4dirstat
+sudo add-apt-repository ppa:chriss-lea/node.js
+sudo apt-get install nodejs
+node --version
+node
+node index.js
+nodejs
+rm deva
+rm -r deva
+cd dev/node-js-sample
+nodejs index.js
+npm install express
+node web.js
+node app.json
+heroku login
+rm node-js-sample
+rm -rf node-js-sample
+ git clone https://github.com/heroku/node-js-getting-started.git
+cd node-js-getting-started
+heroku create
+git push heroku master
+heroku ps:scale web=1
+heroku open
+heroku logs --tail
+e Procfile
+heroku ps
+heroku local web
+cd dev/node-js-getting-started
+rm -rf node-js-getting-started
+git clone https://github.com/hireophantos/node-js-sample.git
+git clone https://github.com/hierophantos/node-js-sample.git
+cd node-js-sample
+/usr/bin/env node -v
+curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
+sudo apt-get install -y nodejs
+npm install
+npm start
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+which node
+curl icanhazip.com
+node -v
+require('os').cpus().length
+cd dev/node-js-sample/
+slc start
+cd npm
+npm install -g strongloop
+man slc
+npm install -g strong-pm && sl-pm-install
+npm install pm2@latest -g
+which zsh
+chsh -s /usr/bin/zsh
+sudo -i
+sudo passwd ubuntu
+sudo chsh -s /usr/bin/zsh
+man chsh
+sudo chsh - $(which zsh)
+sudo chsh -s $(which zsh)
+sudo emacs /etc/passwd
+cd dev
+tree -L 2
+pwd
+sudo apt-get install fish
+fish
+c
+clear
+p
+mkdir nodedb
+l
+cd nodedb
+e server.js
+e package.json
+apt-get install pip
+sudo apt-get install pip
+wget http://pypi.python.org/packages/source/p/pip/pip-1.1.tar.gz#md5=62a9f08dd5dc69d76734568a6c040508
+tar -xvf pip*.gz
+cd pip*
+cd pip-1.1
+sudo python setup.py install
+apt-get install easy_install
+sudo apt-get install easy_install
+sudo apt-get install setuptools
+curl -O https://bootstrap.pypa.io/get-pip.py
+sudo python27 get-pip.py
+sudo python get-pip.py
+pip install ---upgrade pip
+pip install --upgrade pip
+pip install jupyter
+sudo pip install setuptools
+sudo -H pip install setuptools
+man sudo
+sudo -H pip install jupyter
+which python
+python -v
+sudo apt-get install python-dev libxml2-dev libxslt-dev
+sudo apt-get install jupyter
+sudo pip install jupyter
+e /etc/apache2/apache2.conf
+nano /etc/apache2/apache2.conf
+apache2
+apache
+sudo nano /etc/apache2/apache2.conf
+sudo apache2
+apachectl
+apachectl start
+su
+sudo apachectl start
+ps aux
+ps -aux
+killall apache*
+killall apache2
+sudo killall apache2
+ps -aux | grep apach
+sudo nano /etc/apache2/sites-available/000-default.conf
+cd /var/www
+tree
+nano html/index.html
+man source
+apache2 -V
+source /etc/apache2/envvars
+apache2 -k start
+sudo apache2 -k start
+hhhggcrcnnthmxkuedhtueo'.,,p.fgc.pfgpyypueyfgffffheu;;qjk;qjjkkxbm;aoeudhtnheueuuut'rixbm;jkxbueoaidht''.pfgcrcgccccthaoeudhtnaoeuidht;kxbguffgffujfugfucjfutjfutkfutkfukfutfuhfutfunufck p]u uu fug fucq ugcq fucj p y u fuc;uf ikk fuc fkc fuck this
+sudo apache2ctk start
+sudo apache2ctl start
+sudo apache2ctl start -V
+sudo apache2ctl -V -k start
+ apache2ctl restart
+sudo apache2ctl restart
+sudo apache2ctl status
+ping google.com
+curl -s icanhazip.com
+ping 52.32.70.249
+cd ~
+cd home
+cd ubuntu
+wget localhost
+cd ~/.jupyter
+find / jupyter
+jupyter notebook
+jupyter notebook --help
+jupyter notebook --config='~/.jupyter/jupyter_notebook_config.py'
+e ~/.jupyter/jupyter_notebook_config.py
+mkdir jupyter
+jupyter notebook 
+sudo apt-get install pyteaser
+sudo apt-get install lxml
+sudo pip install lxml
+sudo apt-get install python-lxml lxbxml2-dev libxslt1-dev python-dev
+sudo apt-get install python-lxml libxml2-dev libxslt1-dev python-dev
+sudo pip install pyteaser
+git clone https://github.com/roryk/clojupyter
+mv lein ~/
+mv lein ~/bin
+chmod a+x ~/bin/lein
+cd /
+sudo rm /bin/lein
+rm -rf .lein
+ch bin
+cd bi
+rm bin
+mkdir bin
+cd bin
+e ~/.zshrc
+which lein
+source ~/.zschrc
+source ~/.zshrc
+. ~/.zshrc
+bash
+sudo apt-get install perl
+cd /usr/local/bin
+wget https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein
+chmod a+x lein
+sudo wget https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein
+sudo chmod a+x lein
+cd ~/
+lein
+sudo lein
+ls
+cd jupyter
+cd ..
+cd clojupyter
+make
+sudo apt-get install openjdk-7-jre 
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+sudo make
+make install
+jupyter-console --kernel=clojure
+jupyter notebook --kernel=clojure
+man fork
+e
+make fork
+e fork-bomb.c
+make fork-bomb
+./fork-bomb
+top
+a
+: 1449632456:0;tmux ls
+: 1449632465:0;sudo apt-get install tmux
+: 1449632472:0;tmux 
+: 1449632486:0;tmux ls
+: 1449632514:0;man tmux
+: 1449632713:0;node --version
+: 1449632741:0;npm install learnyounode -g
+: 1449632774:0;sudo npm install learnyounode -g
+: 1449632812:0;learnyounode
+: 1449636611:0;a
+: 1449636766:0;ls
+: 1449636776:0;clear
+: 1449636777:0;ls
+: 1449636795:0;git clone git@github.com:hierophantos/nodeschool.git
+: 1449636865:0;ls -al ~/.ssh
+: 1449636892:0;ssh-keygen -t rsa -b 4096 -C "zee.larson@gmail.com"
+: 1449636918:0;eval "$ssh-agent s-s)"
+: 1449636950:0;eval "$(ssh-agent -s)"
+: 1449636960:0;ssh-add ~/.ssh/id_rsa
+: 1449636987:0;cat ~/.ssh/id_rsa.pub
+: 1449637026:0;git clone git@github.com:hierophantos/nodeschool.git
+: 1449637029:0;a
+: 1449637034:0;cd nodeschool
+: 1449637035:0;a
+: 1449637038:0;cd learnyounode
+: 1449637039:0;a
+: 1449637049:0;node 10-tcp-time-server.js
+: 1449637102:0;jobs
+: 1449637105:0;fg
+: 1449637234:0;e 10-tcp-time-server.js
+: 1449637256:0;jobs
+: 1449637264:0;node 10-tcp-time-server.js 8888
+: 1449639942:0;sudo node 10-tcp-time-server.js 80
+: 1449639986:0;sudo systemctl stop apache
+: 1449640019:0;which service
+: 1449640025:0;sudo service apache stop
+: 1449640030:0;sudo service apache2 stop
+: 1449640039:0;sudo node 10-tcp-time-server.js 80
+: 1449640353:0;cp ~/.zsh_history .zsh_history-jacob
