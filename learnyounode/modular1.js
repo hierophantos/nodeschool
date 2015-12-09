@@ -1,8 +1,18 @@
-var ls = require('./filteredls');
+var modular2 = require('./modular2');
 
+var dirPath = process.argv[2],
+    ext = process.argv[3];
 
-
-
+modular2(dirPath, ext, function(err, list) {
+  if (err) {
+    console.log("Oops! Couldn't read " + dirPath);
+    return err;
+  }
+  
+  list.forEach(function (filename) {
+    console.log(filename);
+  });
+});
 
 /*
 ─────────────────────────────────────
